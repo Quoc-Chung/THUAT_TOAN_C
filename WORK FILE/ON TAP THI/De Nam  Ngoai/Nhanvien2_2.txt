@@ -1,0 +1,13 @@
+4
+ Ho Ten: Tu Quoc Chung
+Luong: 337373737
+Ma Nhan Vien: 1
+ Ho Ten: Hoang Ba Van
+Luong: 222
+Ma Nhan Vien: 4
+ Ho Ten: Nguyen  Thi Hoa
+Luong: 3333
+Ma Nhan Vien: 3
+ Ho Ten: Hoang VAn Khai
+Luong: 3
+Ma Nhan Vien: 333

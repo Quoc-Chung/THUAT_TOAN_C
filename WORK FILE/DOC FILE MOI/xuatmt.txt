@@ -1,0 +1,20 @@
+Ma tran trong file la:
+ 1.00  -2.00  3.00  4.00 
+ 1.00  3.00  5.00  -6.00 
+ 2.00  6.00  -8.00  4.00 
+
+Tong tung hang cua ma tran :
+
+Hang 1 co tong:6.00
+Hang 2 co tong:3.00
+Hang 3 co tong:4.00
+Tong tung cot cua ma tran :
+
+Cot 1 co tong:4.00
+Cot 2 co tong:7.00
+Cot 3 co tong:0.00
+Cot 4 co tong:2.00Gia tri max cua tung  hang la  :
+
+Gia tri max hang 1 la:4.00
+Gia tri max hang 2 la:5.00
+Gia tri max hang 3 la:6.00

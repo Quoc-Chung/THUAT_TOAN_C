@@ -1,0 +1,18 @@
+
+Thong tin  cua sach la :
+
+Ma Sach:134--Ten Sach :Con Cho Dien--Ten Tac Gia:Tu Quoc Chung--Nam Xuat Ban :2004--Gia:19500
+Ma Sach:344--Ten Sach :Chu De Men--Ten Tac Gia:Hoang Van Nam--Nam Xuat Ban :1888--Gia:20000
+Ma Sach:442--Ten Sach :Cuon Sach Tam Hon--Ten Tac Gia:Nguyen Thi Hoa--Nam Xuat Ban :2003--Gia:5000
+Ma Sach:123--Ten Sach :May Tinh Bang--Ten Tac Gia:Hoang Van Luc--Nam Xuat Ban :1990--Gia:33333
+Ma Sach:789--Ten Sach :Chiec Gong Kinh--Ten Tac Gia:Vu Van Nhan--Nam Xuat Ban :2007--Gia:12345
+Tim Thay Sach .
+
+Ma Sach:123--Ten Sach :May Tinh Bang--Ten Tac Gia:Hoang Van Luc--Nam Xuat Ban :1990--Gia:33333
+Thu tu giam dan cua cuon sach la  :
+
+Ma Sach:789--Ten Sach :Chiec Gong Kinh--Ten Tac Gia:Vu Van Nhan--Nam Xuat Ban :2007--Gia:12345
+Ma Sach:134--Ten Sach :Con Cho Dien--Ten Tac Gia:Tu Quoc Chung--Nam Xuat Ban :2004--Gia:19500
+Ma Sach:442--Ten Sach :Cuon Sach Tam Hon--Ten Tac Gia:Nguyen Thi Hoa--Nam Xuat Ban :2003--Gia:5000
+Ma Sach:123--Ten Sach :May Tinh Bang--Ten Tac Gia:Hoang Van Luc--Nam Xuat Ban :1990--Gia:33333
+Ma Sach:344--Ten Sach :Chu De Men--Ten Tac Gia:Hoang Van Nam--Nam Xuat Ban :1888--Gia:20000

@@ -1,0 +1,12 @@
+
+Thong tin  mat hang da sap xep :
+
+Mat hang :Nuoc Ngot -- Gia: 11000.00 -- So Luong :50
+Mat hang :But Chi -- Gia: 2000.00 -- So Luong :20
+Mat hang :Goi Keo -- Gia: 15000.00 -- So Luong :13
+Mat hang :Cuc Tay -- Gia: 5999.00 -- So Luong :10
+Mat hang :Cuon Sach -- Gia: 23000.00 -- So Luong :5Thong tin mat hang co gia tren 10000 :
+
+Mat hang :Nuoc Ngot -- Gia: 11000.00 -- So Luong :50
+Mat hang :Goi Keo -- Gia: 15000.00 -- So Luong :13
+Mat hang :Cuon Sach -- Gia: 23000.00 -- So Luong :5

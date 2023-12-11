@@ -1,0 +1,13 @@
+
+Thong tin cac thi sinh la:
+Ho ten:vo hoang hung --So diem:7.50--Truong:A
+Ho ten:tu quoc chung--So diem:9.50--Truong:B
+Ho ten:vu minh quyet--So diem:9.50--Truong:B
+Ho ten:vu hong nhung--So diem:9.00--Truong:C
+Ho ten:vu minh trang--So diem:8.50--Truong:A
+Ho ten:nguyen van kiet--So diem:8.00--Truong:C
+Truong A co tong diem cao nhat:36.00
+3 Thi sinh co diem cao nhat la:
+Hoten:tu quoc chung--Sodiem:9.50--Truong:B
+Hoten:vu minh quyet--Sodiem:9.50--Truong:B
+Hoten:vu hong nhung--Sodiem:9.00--Truong:C

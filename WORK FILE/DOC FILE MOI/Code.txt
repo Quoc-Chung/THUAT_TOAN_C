@@ -1,0 +1,16 @@
+5
+Nguyen Hong Phong
+7.8
+A2
+Hoang Viet Quang
+9.7
+A1
+Bui Thi Kim
+6.7
+A3
+Nguyen Thi Sao Mai
+5.7
+A2
+Hoang Cuu Bao
+1.2
+A1

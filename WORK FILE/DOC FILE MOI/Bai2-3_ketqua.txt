@@ -1,0 +1,19 @@
+Sach duoc doc tu file la : 
+
+Ten Sach :Con cho biet noi  Nam xuat ban:1980   Gia thanh :34.500 dong
+
+Ten Sach :Bi vo  Nam xuat ban:2013   Gia thanh :25.000 dong
+
+Ten Sach :Ngoi khoc tren cay  Nam xuat ban:2002   Gia thanh :23.500 dong
+
+Ten Sach :Hoang lien son  Nam xuat ban:1989   Gia thanh :33.500 dong
+
+Ten Sach :Con lon  Nam xuat ban:2012   Gia thanh :15.000 dong
+
+TB gia cua cac cuon sach  tu nam  2011 -2013:15.000
+
+-------Sach duoc tim thay ------
+
+Ten Sach :Con cho biet noi
+Nam xuat ban:1980
+Gia thanh :34.500 dong.

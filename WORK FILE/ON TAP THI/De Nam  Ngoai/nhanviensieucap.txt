@@ -1,0 +1,41 @@
+
+Thong tin nhan vien doc tu  file  la :
+
+Ma nhan vien :123 
+Ho va Ten :Tu Quoc Chung 
+Luong :12334774 
+Phong :A
+Ma nhan vien :445 
+Ho va Ten :Nguyen Thi Hoang 
+Luong :323233 
+Phong :B
+Ma nhan vien :777 
+Ho va Ten :Hoang Hai Yen 
+Luong :22222 
+Phong :C
+Ma nhan vien :899 
+Ho va Ten :Lo Van Vang 
+Luong :232333 
+Phong :B
+Luong trung binh phong A la :12334774.00
+Luong trung binh phong B la :277783.00
+Luong trung binh phong C la :22222.00
+Phong A  co luong trung  binh cao nhat.
+Danh  sach sinh  vien giam  dan theo luong la  :
+
+Ma nhan vien :777 
+Ho va Ten :Hoang Hai Yen 
+Luong :22222 
+Phong :C
+Ma nhan vien :899 
+Ho va Ten :Lo Van Vang 
+Luong :232333 
+Phong :B
+Ma nhan vien :445 
+Ho va Ten :Nguyen Thi Hoang 
+Luong :323233 
+Phong :B
+Ma nhan vien :123 
+Ho va Ten :Tu Quoc Chung 
+Luong :12334774 
+Phong :A

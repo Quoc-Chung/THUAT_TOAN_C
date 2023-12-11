@@ -1,0 +1,16 @@
+5
+Nguyen Thi Nhung
+3.2
+A
+Hoang Thi Hoa
+4.3
+B
+Nguyen Nguyen Phong
+6.8
+B
+Hoang Ba Hung
+4.5
+C
+Nguyen Thi Hoa
+8.9
+C

@@ -1,0 +1,13 @@
+
+Thong tin cac thi sinh la:
+Ho ten:--So diem:0.00--Truong:vo hoang hung 
+Ho ten:oang hung --So diem:7.50--Truong:
+Ho ten:--So diem:0.00--Truong:A
+Ho ten:--So diem:0.00--Truong:tu quoc chung
+Ho ten:uoc chung--So diem:9.50--Truong:
+Ho ten:--So diem:0.00--Truong:B
+Truong A co tong diem cao nhat:17.00
+3 Thi sinh co diem cao nhat la:
+Hoten:--Sodiem:0.00--Truong:B
+Hoten:--Sodiem:0.00--Truong:vo h
+Hoten:--Sodiem:0.00--Truong:tu q

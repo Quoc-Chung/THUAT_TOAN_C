@@ -1,0 +1,16 @@
+5
+Nguyen Van Nam
+8.6
+A
+Hoang Ba Nhi
+5.6
+B
+Nguyen Thi Na
+9.5
+B
+Do Nhu Ngoc
+8.9
+C
+Bui Xuan Thuy
+5.1
+A

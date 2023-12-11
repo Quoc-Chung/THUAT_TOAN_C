@@ -1,0 +1,16 @@
+5
+Nguyen Van Nam
+9.5
+A
+Hoang Ba Loc
+3.5
+B
+Hoang Kha Long
+7.6
+C
+Nguyen Thi Hoa
+5.7
+B
+Hoang Van Loi
+9.7
+C

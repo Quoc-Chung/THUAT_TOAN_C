@@ -1,0 +1,21 @@
+Thong tin sach:
+1. Sach thu 1:
+Ten sach: Killer
+Nha xuat ban: Dang Huu Cuong
+Gia: 20000
+2. Sach thu 2:
+Ten sach: Truth Loop
+Nha xuat ban: Nguyen Trung Dai
+Gia: 10000
+3. Sach thu 3:
+Ten sach: Omen Stupid
+Nha xuat ban: Luong Viet Quang
+Gia: 30000
+4. Sach thu 4:
+Ten sach: Deadlock
+Nha xuat ban: Nong Van Dung
+Gia: 60000
+5. Sach thu 5:
+Ten sach: Cho
+Nha xuat ban: Le Van Bach
+Gia: 70000

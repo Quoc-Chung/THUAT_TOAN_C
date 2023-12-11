@@ -1,0 +1,13 @@
+
+Diem Trung Binh Cua Moi Lop:
+ Diem TB--Lop A1: 5.45--Lop A2: 6.75--Lop A3: 6.70 Lop A2 co diem Tb lon nhat.
+Ba thi sinh co tong diem cao nhat la:
+Ho ten: Hoang Viet Quang
+Diem: 9.70
+Lop: A1
+Ho ten: Nguyen Hong Phong
+Diem: 7.80
+Lop: A2
+Ho ten: Bui Thi Kim
+Diem: 6.70
+Lop: A3

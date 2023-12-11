@@ -1,0 +1,28 @@
+
+----------Thong tin van tai ----------
+Ten bien so : 300718
+Trong Tai : 23.400000
+Ten Cong Ty : A
+Ten bien so : 71204
+Trong Tai : 34.599998
+Ten Cong Ty : A
+Ten bien so : 181024
+Trong Tai : 79.000000
+Ten Cong Ty : C
+Ten bien so : 339393
+Trong Tai : 56.700001
+Ten Cong Ty : B
+Ten bien so : 30
+Trong Tai : 78.800003
+Ten Cong Ty : BO to cua cong ty co bien kiem soat chia het cho 3 la:2
+Thong tin ba xe co trong tai nho nhat  la  :
+
+Ten bien so : 300718
+Trong Tai : 23.400000
+Ten Cong Ty : A
+Ten bien so : 71204
+Trong Tai : 34.599998
+Ten Cong Ty : A
+Ten bien so : 339393
+Trong Tai : 56.700001
+Ten Cong Ty : B

@@ -1,0 +1,21 @@
+5
+11111
+Nguyen Van Nam
+195000
+A
+22222
+Nguyen Hoang Hai
+198811
+B
+33333
+Nguyen Thi Huong
+89777
+C
+77777
+Hoang Thi Cuong
+1444466
+A
+11111
+Nguyen Hoang Chien
+765686
+B

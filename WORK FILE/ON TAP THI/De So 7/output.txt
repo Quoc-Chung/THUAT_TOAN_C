@@ -1,0 +1,16 @@
+
+Danh  sach  sinh  vien la :
+ 
+ Ho Ten :Tu Quoc Chung   Diem: 9.78   Truong :A 
+ Ho Ten :Nguyen The  Phong   Diem: 5.70   Truong :B 
+ Ho Ten :Hoang  Van Phong   Diem: 5.60   Truong :C 
+ Ho Ten :Nguyen Thi Hoa   Diem: 8.00   Truong :C 
+ Ho Ten :Hoanh Van Tong   Diem: 6.80   Truong :A
+Diem  truong A :8.29 
+Diem  truong B :5.70  
+Diem Truong C :6.80
+Truong B  co  diem  thap nhat.Ba thi  sinh co  diem  cao nhat  la  :
+
+Tu Quoc Chung --- Diem:9.78 ---Truong :A
+Nguyen Thi Hoa --- Diem:8.00 ---Truong :C
+Hoanh Van Tong --- Diem:6.80 ---Truong :A

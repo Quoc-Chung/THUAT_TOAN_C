@@ -1,0 +1,5 @@
+banh 3 an duoc
+keo 4 khong an duoc
+ai 4 an duoc
+em 2 an ngon
+hoa 3 khong duoc

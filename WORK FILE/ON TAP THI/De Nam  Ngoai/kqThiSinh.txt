@@ -1,0 +1,17 @@
+
+Thong tin thi  sinh la :
+
+Ho ten :Nguyen Van Nam -- So Diem :8.60 --Truong :A
+Ho ten :Hoang Ba Nhi -- So Diem :5.60 --Truong :B
+Ho ten :Nguyen Thi Na -- So Diem :9.50 --Truong :B
+Ho ten :Do Nhu Ngoc -- So Diem :8.90 --Truong :C
+Ho ten :Bui Xuan Thuy -- So Diem :5.10 --Truong :A
+Tong diem cua truong  A  la  :6.85
+Tong diem cua truong  B la  :7.55
+Tong diem cua truong  C  la  :8.90
+Truong A  co diem trung  binh thap nhat  .
+Thong tin  3 sinh  vien diem cao nhat :
+
+Ho ten :Nguyen Thi Na -- So Diem :9.50 --Truong :B
+Ho ten :Do Nhu Ngoc -- So Diem :8.90 --Truong :C
+Ho ten :Nguyen Van Nam -- So Diem :8.60 --Truong :A

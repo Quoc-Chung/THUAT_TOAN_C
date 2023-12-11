@@ -1,0 +1,16 @@
+
+Diem cua don vi A la: 9.50
+Diem cua truong B la: 4.60
+Diem cua truong C la: 8.65
+Thong tin  sinh vien la  :
+
+Ho Ten :Nguyen Van Nam  ---- Diem :9.50 ---- Don Vi :A
+Ho Ten :Hoang Ba Loc  ---- Diem :3.50 ---- Don Vi :B
+Ho Ten :Hoang Kha Long  ---- Diem :7.60 ---- Don Vi :C
+Ho Ten :Nguyen Thi Hoa  ---- Diem :5.70 ---- Don Vi :B
+Ho Ten :Hoang Van Loi  ---- Diem :9.70 ---- Don Vi :C
+Thong tin  3 thi  sinh  co diem cao nhat  la  :
+
+Ho Ten :Hoang Van Loi  ---- Diem :9.70 ---- Don Vi :C
+Ho Ten :Nguyen Van Nam  ---- Diem :9.50 ---- Don Vi :A
+Ho Ten :Hoang Kha Long  ---- Diem :7.60 ---- Don Vi :C
